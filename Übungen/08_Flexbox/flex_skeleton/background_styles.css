@@ -7,6 +7,10 @@ html {
     justify-content: center;
 }
 
+.card{
+    border: 2px solid red;
+}
+
 .flexbox-item-1 {
     min-height: 100px;
 }

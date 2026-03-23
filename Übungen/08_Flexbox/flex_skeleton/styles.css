@@ -1,0 +1,22 @@
+.card{
+    border: 2px solid black;
+}
+
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #eee;
+}
+
+.grid {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+    height:200px;
+    width:280px;
+}
